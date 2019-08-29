@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MM</string>
+    <string name="item_1">item</string>
+    <string name="contentDescriptionImage">Content Image</string>
+    <string name="btnMusic">Music</string>
+    <string name="btnPlaylist">Playlist</string>
+
+</resources>
